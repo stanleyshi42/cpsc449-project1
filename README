@@ -1,16 +1,9 @@
-Project 1
+# CPSC 449 Project 1
+This project aims to censor out curse words retrieved from the FOAAS API by passing its data through the PurgoMalum API.
 
-Team Members:
+## Team Members
 Stanley Shi
 
-Summary:
-This project aims to censor out curse words retrieved from FOAAS by passing its data 
-through PurgoMalum.
-
-Files:
+## Files
 redact.py
 server.py
-
-Shortcomings:
-This project fulfills all project requirements and there are no shortcomings that
-I am aware of.
