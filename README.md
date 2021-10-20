@@ -5,5 +5,5 @@ This project aims to censor out curse words retrieved from the FOAAS API by pass
 Stanley Shi
 
 ## Files
-redact.py
-server.py
+* redact.py
+* server.py
